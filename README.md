@@ -6,8 +6,8 @@
 <img src = "https://user-images.githubusercontent.com/22201958/42849685-5533d158-89f2-11e8-9ae5-e344b9909e3e.jpg">
 </p>
 
-_________________________
 
+_________________________
 
 <img align="right" src = "https://user-images.githubusercontent.com/22201958/42849686-554363ac-89f2-11e8-9a98-2e3e59f90d16.jpg">
 
@@ -27,10 +27,9 @@ _________________________
 <br/>
 <br/>
 
-
 _________________________
 
-### Creating New Note
+
 
 <img align="left" src="https://user-images.githubusercontent.com/22201958/42849687-555aee82-89f2-11e8-8438-f99899b3b051.jpg">
 
@@ -38,6 +37,8 @@ _________________________
 <br/>
 <br/>
 <br/>
+
+### Creating New Note
 
 >Creating new note interface has many options like adding title,description, view your current location on map, record audio, capture or add image from photos. It also shows on which date note was created with time along with the location where it was taken.
 
@@ -49,7 +50,7 @@ _________________________
 
 _________________________
 
-### Categories
+
 
 <img align="right" src="https://user-images.githubusercontent.com/22201958/42849688-55687f98-89f2-11e8-952d-330bb8cefc09.jpg">
 
@@ -57,6 +58,8 @@ _________________________
 <br/>
 <br/>
 <br/>
+
+### Categories
 
 >We have privided user with 5 default categories, they are Default, Personal, Work, Education and Travelling. It not just that, we also have provided users option to add his/her own category as shown in screenshot. We also have provided validation so that a empty category can not be created by user accidently.
 
@@ -68,9 +71,11 @@ _________________________
 
 _________________________
 
-### A look at completed note
+
 
 <img align="left" src="https://user-images.githubusercontent.com/22201958/42849689-557f7bee-89f2-11e8-8b56-92bc451385c9.jpg">
+
+### A look at completed note
 
 <br/>
 <br/>
@@ -87,9 +92,11 @@ _________________________
 
 _________________________
 
-### Sorting options
+
 
 <img align="right" src="https://user-images.githubusercontent.com/22201958/42849690-558fe2e0-89f2-11e8-90ba-837a93ec2c5b.jpg">
+
+### Sorting options
 
 <br/>
 <br/>
@@ -107,9 +114,11 @@ _________________________
 
 _________________________
 
-### Searching a note
+
 
 <img align="left" src="https://user-images.githubusercontent.com/22201958/42849691-55a28300-89f2-11e8-86b4-a3194dd080ad.jpg">
+
+### Searching a note
 
 <br/>
 <br/>
