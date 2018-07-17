@@ -40,7 +40,7 @@ _________________________
 
 ### Creating New Note
 
->Creating new note interface has many options like adding title,description, view your current location on map, record audio, capture or add image from photos. It also shows on which date note was created with time along with the location where it was taken.
+>Creating new note interface has many options, like adding title,description, view your current location on map, record audio, capture or add image from photos. It also shows when the note was created with timestamp and the location where it was taken.
 
 <br/>
 <br/>
@@ -61,7 +61,7 @@ _________________________
 
 ### Categories
 
->We have privided user with 5 default categories, they are Default, Personal, Work, Education and Travelling. It not just that, we also have provided users option to add his/her own category as shown in screenshot. We also have provided validation so that a empty category can not be created by user accidently.
+>We have privided user with 5 default categories,and they are Default, Personal, Work, Education and Travelling. It is not just that, we also have provided users option to create his/her own category as shown in screenshot. We also have added validation so that an empty category can not be created accidently.
 
 <br/>
 <br/>
@@ -125,7 +125,7 @@ _________________________
 
 ### Searching a note
 
->Seaching in notes is just as easy as opening an app. Just write the word in search bar it will automatically search for word regardless of title and description and show matching note below the search bar.
+>Seaching in notes is as easy as opening an app. Just type the word in search bar it will automatically search for word regardless of title or description, and it will show matching note below the search bar.
 
 <br/>
 <br/>
