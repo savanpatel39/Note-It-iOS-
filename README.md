@@ -8,7 +8,6 @@
 
 _________________________
 
-### Home Screen
 
 <img align="right" src = "https://user-images.githubusercontent.com/22201958/42849686-554363ac-89f2-11e8-9a98-2e3e59f90d16.jpg">
 
@@ -16,6 +15,8 @@ _________________________
 <br/>
 <br/>
 <br/>
+
+### Home Screen
 
 >Note !t has an elegant home screen which shows title of note along with some of the note's description and label. Users can create new note, sort their notes, look through notes by writing words they want to look for in search bar.
 
