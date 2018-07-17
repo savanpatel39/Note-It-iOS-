@@ -10,11 +10,14 @@ _________________________
 
 <img align="right" src = "https://user-images.githubusercontent.com/22201958/42849686-554363ac-89f2-11e8-9a98-2e3e59f90d16.jpg">
 
+<br/>
+<br/>
 
 ### Home Screen
 
 >Note !t has an elegant home screen which shows title of note along with some of the note's description and label. Users can create new note, sort their notes, look through notes by writing words they want to look for in search bar.
 
+<br/>
 <br/>
 <br/>
 <br/>
@@ -26,6 +29,8 @@ _________________________
 
 <img align="left" src="https://user-images.githubusercontent.com/22201958/42849687-555aee82-89f2-11e8-8438-f99899b3b051.jpg">
 
+<br/>
+<br/>
 
 ### Creating New Note
 
@@ -43,7 +48,6 @@ _________________________
 
 <img align="right" src="https://user-images.githubusercontent.com/22201958/42849688-55687f98-89f2-11e8-952d-330bb8cefc09.jpg">
 
-<br/>
 <br/>
 <br/>
 
@@ -65,7 +69,6 @@ _________________________
 
 <br/>
 <br/>
-<br/>
 
 ### A look at completed note
 
@@ -83,7 +86,6 @@ _________________________
 
 <img align="right" src="https://user-images.githubusercontent.com/22201958/42849690-558fe2e0-89f2-11e8-90ba-837a93ec2c5b.jpg">
 
-<br/>
 <br/>
 <br/>
 
@@ -104,8 +106,6 @@ _________________________
 
 <img align="left" src="https://user-images.githubusercontent.com/22201958/42849691-55a28300-89f2-11e8-86b4-a3194dd080ad.jpg">
 
-<br/>
-<br/>
 <br/>
 <br/>
 
