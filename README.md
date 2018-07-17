@@ -75,12 +75,12 @@ _________________________
 
 <img align="left" src="https://user-images.githubusercontent.com/22201958/42849689-557f7bee-89f2-11e8-8b56-92bc451385c9.jpg">
 
-### A look at completed note
+<br/>
+<br/>
+<br/>
+<br/>
 
-<br/>
-<br/>
-<br/>
-<br/>
+### A look at completed note
 
 >A completed note having title, description, location, photo, audio added with their category. The play button will play the audio. Tapping on the image will take user to new screen with preview of that image.
 
@@ -96,12 +96,12 @@ _________________________
 
 <img align="right" src="https://user-images.githubusercontent.com/22201958/42849690-558fe2e0-89f2-11e8-90ba-837a93ec2c5b.jpg">
 
-### Sorting options
+<br/>
+<br/>
+<br/>
+<br/>
 
-<br/>
-<br/>
-<br/>
-<br/>
+### Sorting options
 
 >Currently users can sort all their notes by aplhabetically ascending and descending, by date most recent to oldest. In image it is sorted by ascentding alphabetically.
 
@@ -118,12 +118,12 @@ _________________________
 
 <img align="left" src="https://user-images.githubusercontent.com/22201958/42849691-55a28300-89f2-11e8-86b4-a3194dd080ad.jpg">
 
-### Searching a note
+<br/>
+<br/>
+<br/>
+<br/>
 
-<br/>
-<br/>
-<br/>
-<br/>
+### Searching a note
 
 >Seaching in notes is just as easy as opening an app. Just write the word in search bar it will automatically search for word regardless of title and description and show matching note below the search bar.
 
